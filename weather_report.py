@@ -1,5 +1,5 @@
-import argparse
-import requests
+import argparse #Libreria para crear CLI
+import requests #Libreria que te permite interactuar con APIs
 from api_key import API_KEY
 
 def get_weather(location, api_key):
