@@ -1,4 +1,4 @@
-import argparse #Libreria para crear CLI
+import argparse #Libreria para crear CLI. 
 import requests #Libreria que te permite interactuar con APIs
 from api_key import API_KEY
 
